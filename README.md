@@ -28,9 +28,9 @@ To run the app using Expo:
 Due to the time and resource constraints of this project, we had to simplify certain features:  
 - None of the screens are fully styled to spec. With more time to fine tune the styling, we would put together a more aesthetically pleasing product.  
 - The garden is very limited and does not include the following due to time constraints:  
-___ Rendering multiple plants in their correct location.  
-___ Tracking plant state.  
-___ Rendering a unique image for every plant.  
+    Rendering multiple plants in their correct location.  
+    Tracking plant state.  
+    Rendering a unique image for every plant.  
 - The users on the community screen are hard coded.  
 - The actions and news articles that have already been claimed for gems are not tracked.  
 - No onboarding tutorial (unless somehow our design is perfect and doesn't need this). 
