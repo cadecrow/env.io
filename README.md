@@ -2,7 +2,7 @@
 
 Link to Download: https://expo.io/@cade-stanford/Envio  
   
-*Operating Instructions*  
+**Operating Instructions**  
 This prototype was developed using React Native and Expo.  
 An iPhone 11 Pro Max was used as the basis for the styling.  
 The .zip file of theGitHub repository can be downloaded from our website. 
@@ -24,7 +24,7 @@ To run the app using Expo:
     and if a red error message regardingthe bridge is displayed upon launching the app, 
     you may need to repeatedly click “Reload” and wait for the JSBundle to build to 100%.
   
-*Limitations*  
+**Limitations**  
 Due to the time and resource constraints of this project, we had to simplify certain features:  
 - None of the screens are fully styled to spec. With more time to fine tune the styling, we would put together a more aesthetically pleasing product.  
 - The garden is very limited and does not include the following due to time constraints:  
