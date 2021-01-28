@@ -1,0 +1,43 @@
+Here are notes to refer to for information and values that need to be repeatedly used
+
+
+RBG Values
+[
+    logo -
+    green: #2EC623
+    dark green: #1B9A22
+    light green: #DAFFE3
+
+    gradient -
+    green: #7FFF7F
+    blue: 7FF0FF
+]
+
+Async Storage
+[
+    userDocRef - item that contains the reference to the firebase document for the logged in user
+
+]
+
+Firebase
+[
+
+]
+
+Alert Exmple
+[
+    Alert.alert(
+    'Alert Title',
+    'My Alert Msg',
+    [
+            {text: 'Ask me later', onPress: () => console.log('Ask me later pressed')},
+        {
+            text: 'Cancel',
+            onPress: () => console.log('Cancel Pressed'),
+            style: 'cancel',
+        },
+        {text: 'OK', onPress: () => console.log('OK Pressed')},
+    ],
+    {cancelable: false},
+    );
+]
