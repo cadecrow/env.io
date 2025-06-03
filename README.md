@@ -23,15 +23,3 @@ To run the app using Expo:
     Also, make sure that your phone is on the same Wi-Fi network as the computer you’re using, 
     and if a red error message regardingthe bridge is displayed upon launching the app, 
     you may need to repeatedly click “Reload” and wait for the JSBundle to build to 100%.
-  
-**Limitations**  
-Due to the time and resource constraints of this project, we had to simplify certain features:  
-- None of the screens are fully styled to spec. With more time to fine tune the styling, we would put together a more aesthetically pleasing product.  
-- The garden is very limited and does not include the following due to time constraints:  
-  - Rendering multiple plants in their correct location.  
-  - Tracking plant state.  
-  - Rendering a unique image for every plant.  
-- The users on the community screen are hard coded.  
-- The actions and news articles that have already been claimed for gems are not tracked.  
-- No onboarding tutorial (unless somehow our design is perfect and doesn't need this). 
-- Lastly, there are other features we thought would be useful to implement, but we knew they would be out of the scope of this class.  
